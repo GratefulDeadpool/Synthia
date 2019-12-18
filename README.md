@@ -1,2 +1,2 @@
 # Synthia
-a microcontroller-based synthesizer
+a microcontroller-based synthesizer made in RobotC
